@@ -29,7 +29,7 @@ marcus1.on("ready", () => {
     }, 1200)
 })
 
-marcus2.login(marcus.TOKENLER.ClientToken1)
+marcus1.login(marcus.TOKENLER.ClientToken1)
 
 // 2. Bot
 
