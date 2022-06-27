@@ -1,0 +1,15 @@
+{
+  "name": "marcus-url-spammer",
+  "version": "0.0.1",
+  "description": "OC yanaksalvo#1943 nickli şahıs için yapılmış bir bot",
+  "main": "marcus.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcus",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "discord.js": "^12.5.3"
+  }
+}
