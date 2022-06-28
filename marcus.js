@@ -24,7 +24,7 @@ marcus1.on("ready", () => {
             data: { code: marcus.URLLER.URL_1 },
             headers: { authorization: `Bot ${marcus1.token}` }
         }).catch(() => {
-            console.log("URL ALINAMADI ")
+            console.log("1. Bot Spamlıyor")
         })
     }, 1200)
 })
@@ -49,7 +49,7 @@ marcus2.on("ready", () => {
             data: { code: marcus.URLLER.URL_2 },
             headers: { authorization: `Bot ${marcus2.token}` }
         }).catch(() => {
-            console.log("URL ALINAMADI ")
+            console.log("2. Bot Spamlıyor")
         })
     }, 1200)
 })
@@ -74,7 +74,7 @@ marcus3.on("ready", () => {
             data: { code: marcus.URLLER.URL_3 },
             headers: { authorization: `Bot ${marcus3.token}` }
         }).catch(() => {
-            console.log("URL ALINAMADI ")
+            console.log("3. Bot Spamlıyor")
         })
     }, 1200)
 })
@@ -99,7 +99,7 @@ marcus4.on("ready", () => {
             data: { code: marcus.URLLER.URL_4 },
             headers: { authorization: `Bot ${marcus4.token}` }
         }).catch(() => {
-            console.log("URL ALINAMADI ")
+            console.log("4. Bot Spamlıyor")
         })
     }, 1200)
 })
